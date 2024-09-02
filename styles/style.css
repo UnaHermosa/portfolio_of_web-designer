@@ -1,0 +1,28 @@
+
+
+.header {
+  padding: 50px 96px  40px;
+  border-bottom: 1px solid rgba(238, 238, 238, 0.1);
+}
+
+.header__menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header__logo-image {
+  width: 70%;
+}
+
+.header__menu-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 48px;
+  list-style: none;
+}
+
+.header__menu-link {
+  color: #eee;
+  text-decoration: none;
+}
