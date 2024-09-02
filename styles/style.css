@@ -20,6 +20,7 @@
   flex-wrap: wrap;
   gap: 20px 48px;
   list-style: none;
+  max-width: 50%;
 }
 
 .header__menu-link {
